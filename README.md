@@ -11,8 +11,9 @@ Criteria Requirements:
     -The title element is desriptive and brief
 
 Screenshot of the website:
+![image](
 <div>
     <img src="/Users/chrissypike/Project-1/Project-1/urban-octo-telegram/Develop/assets/images/project image.png"</img>
-    </div>
+    </div>)
 
 Link to the website:[link](http://127.0.0.1:5500/Project-1/urban-octo-telegram/Develop/index.html)
